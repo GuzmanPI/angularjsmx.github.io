@@ -51,6 +51,12 @@
         "speak": "Aplicaciones móviles con Ionic",
         "description" : "Daremos un vistazo a ionic, un framework para realizar aplicaciones móviles que utiliza Angular."
       },
+      {
+        "twitter" : "h1pp1e",
+        "name" : "Jorge Medrano",
+        "speak": "Consumiendo API RESTful con $resources",
+        "description" : "$resources es un recurso que nos puede facilitar el consumo de servicios dentro de Angular, aquí lo conocerás."
+      },
     ]
   },
   {
