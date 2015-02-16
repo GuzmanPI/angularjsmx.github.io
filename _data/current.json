@@ -57,6 +57,12 @@
         "speak": "Consumiendo API RESTful con $resources",
         "description" : "$resources es un recurso que nos puede facilitar el consumo de servicios dentro de Angular, aquí lo conocerás."
       },
+      {
+        "twitter" : "rianet",
+        "name" : "Janet Maldonado",
+        "speak": "AngularJS + Yeoman: scaffolding modern webapps",
+        "description" : "Yeoman es un gran herramienta que nos ayuda a iniciar nuevos proyectos, pre-escribiendo buensa prácticas."
+      },
     ]
   },
   {
