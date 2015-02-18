@@ -52,6 +52,12 @@
         "description" : "Daremos un vistazo a ionic, un framework para realizar aplicaciones móviles que utiliza Angular."
       },
       {
+        "twitter" : "gerardo_",
+        "name" : "Gerardo Vivanco",
+        "speak": "Haciendo negocios con AngularJS",
+        "description" : "Potenciando negocios con AngularJS"
+      },
+      {
         "twitter" : "h1pp1e",
         "name" : "Jorge Medrano",
         "speak": "Consumiendo API RESTful con $resources",
