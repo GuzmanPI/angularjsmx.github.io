@@ -39,8 +39,8 @@
     "hour" : "10:00",
     "icon" : "blue_gdl.png",
     "tickets" : "http://www.meetup.com/AngularJS-Mexico/events/220079806/",
-    "address" : "Indatcom, Lope de Vega 217, Arcos Sur, Guadalajara",
-    "map" : "https://goo.gl/maps/ikzoh",
+    "address" : "Función Lab, Madero 957-A, Col. Americana, Guadalajara",
+    "map" : "https://goo.gl/maps/7wGCJ",
     "location" : "Guadalajara",
     "location_min" : "GDL",
     "meetup" : "2do",
@@ -50,6 +50,12 @@
         "name" : "Gilberto Avalos",
         "speak": "Aplicaciones móviles con Ionic",
         "description" : "Daremos un vistazo a ionic, un framework para realizar aplicaciones móviles que utiliza Angular."
+      },
+      {
+        "twitter" : "gerardo_",
+        "name" : "Gerardo Vivanco",
+        "speak": "Haciendo negocios con AngularJS",
+        "description" : "Potenciando negocios con AngularJS"
       },
       {
         "twitter" : "h1pp1e",
