@@ -1,8 +1,8 @@
 [
   {
-    "date":"Febrero 21",
-    "full_date" : "21 de Febrero, 2015",
-    "history" : "Febrero 2015",
+    "date":"Abril 18",
+    "full_date" : "18 de Abril, 2015",
+    "history" : "Abril 2015",
     "hour" : "10:00",
     "icon" : "blue_cdmx.png",
     "tickets": "http://www.meetup.com/AngularJS-Mexico/events/219944840/",
@@ -10,92 +10,14 @@
     "map" : "https://goo.gl/maps/VrCJj",
     "location" : "Ciudad de México",
     "location_min" : "CDMX",
-    "meetup" : "6to",
+    "meetup" : "7mo",
     "speakers" : [
       {
-        "twitter" : "axnotliztak",
-      	"name" : "Luis F. Lopez Espinosa",
-      	"speak": "Famo.us y AngularJS",
-        "description" : "Aprende a integrar el Framework Famou.us y AngularJS."
-      },
-      {
-        "twitter" : "miguelsauza",
-        "name" : "Miguel A. Yáñez Sauza",
-        "speak": "ArcGIS y AngularJS",
-        "description": "Mapas y Angular, aquí aprenderás otras maneras de integrarlos."
-      },
-      {
-        "twitter" : "xinolou",
-        "name" : "Mario Rivas Bonilla",
-        "speak": "D3 y AngularJS",
-        "description" : "Descrubre el potencial de utilizar D3 y Angular al momento de graficar"
-      },
-    ]
-  },
-  {
-    "date":"Febrero 21",
-    "full_date" : "21 de Febrero, 2015",
-    "history" : "Febrero 2015",
-    "hour" : "10:00",
-    "icon" : "blue_gdl.png",
-    "tickets" : "http://www.meetup.com/AngularJS-Mexico/events/220079806/",
-    "address" : "Función Lab, Madero 957-A, Col. Americana, Guadalajara",
-    "map" : "https://goo.gl/maps/7wGCJ",
-    "location" : "Guadalajara",
-    "location_min" : "GDL",
-    "meetup" : "2do",
-    "speakers" : [
-      {
-        "twitter" : "agnosticmusic",
-        "name" : "Gilberto Avalos",
-        "speak": "Aplicaciones móviles con Ionic",
-        "description" : "Daremos un vistazo a ionic, un framework para realizar aplicaciones móviles que utiliza Angular."
-      },
-      {
-        "twitter" : "gerardo_",
-        "name" : "Gerardo Vivanco",
-        "speak": "Haciendo negocios con AngularJS",
-        "description" : "Potenciando negocios con AngularJS"
-      },
-      {
-        "twitter" : "rianet",
-        "name" : "Janet Maldonado",
-        "speak": "AngularJS + Yeoman: scaffolding modern webapps",
-        "description" : "Yeoman es un gran herramienta que nos ayuda a iniciar nuevos proyectos, pre-escribiendo buensa prácticas."
-      },
-    ]
-  },
-  {
-    "date":"Febrero 28",
-    "full_date" : "28 de Febrero, 2015",
-    "history" : "Febrero 2015",
-    "hour" : "10:00",
-    "icon" : "blue_qro.png",
-    "tickets" : "http://www.meetup.com/AngularJS-Mexico/events/220091911/",
-    "address" : "Qroworking, Av. Hercules Pte. No. 219 - 13, Querétaro",
-    "map"     : "https://goo.gl/maps/LmH7u",
-    "location" : "Querétaro",
-    "location_min" : "QRO",
-    "meetup" : "1er",
-    "speakers" : [
-      {
-        "twitter" : "eusoj",
-        "name" : "Josué G",
-        "speak": "ng-community",
-        "description" : "AngularJS es más que un framework, es una comunidad unida y comprometida.",
-      },
-      {
-        "twitter" : "citlacom",
-        "name" : "Pablo Cerda",
-        "speak": "Angular + Drupal",
-        "description" : "¿Drupal y Angular? Aquí te guiaremos como lograrlo."
-      },
-      {
-        "twitter" : "ehobbsesquire",
-        "name" : "Evan Hobbs",
-        "speak": "Angular vs ReactJS",
-        "description" : "Evan nos mostrará lo valioso de cada tecnología"
-      },
+        "twitter" : "checoipn",
+      	"name" : "Sergio Alcalá",
+      	"speak": "Animaciones en AngularJS",
+        "description" : "Aprende a realizar animaciones con AngularJS."
+      }
     ]
   }
 ]
