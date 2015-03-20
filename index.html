@@ -193,7 +193,7 @@ layout: default
     </div><!--end of row-->
 
     <div class="row">
-     {% for history in site.data.events %}
+     {% for history in site.data.events limit: 6 %}
      <div class="col-md-2 col-sm-12">
       <h5>{{history.history}},<br/> {{history.meetup}} meetup {{history.location_min}}</h5>
       {% for bio in history.speakers %}
