@@ -13,12 +13,6 @@
     "meetup": "6to",
     "speakers": [
       {
-        "twitter": "axnotliztak",
-        "name": "Luis F. Lopez Espinosa",
-        "speak": "Famo.us y AngularJS",
-        "description": "Aprende a integrar el Framework Famou.us y AngularJS."
-      },
-      {
         "twitter": "miguelsauza",
         "name": "Miguel A. Yáñez Sauza",
         "speak": "ArcGIS y AngularJS",
@@ -78,12 +72,6 @@
     "location_min": "QRO",
     "meetup": "1er",
     "speakers": [
-      {
-        "twitter": "eusoj",
-        "name": "Josué G",
-        "speak": "ng-community",
-        "description": "AngularJS es más que un framework, es una comunidad unida y comprometida."
-      },
       {
         "twitter": "citlacom",
         "name": "Pablo Cerda",

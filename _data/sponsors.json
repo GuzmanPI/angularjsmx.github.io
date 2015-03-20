@@ -10,6 +10,11 @@
     "url" : "#",
   },
   {
+    "name" : "Hackers & Founders",
+    "img"  : "hf.png",
+    "url" : "http://hf.cx/",
+  },
+  {
     "name" : "Vinco Orbis",
     "img"  : "vincoorbis.png",
     "url" : "http://vincoorbis.com/",
