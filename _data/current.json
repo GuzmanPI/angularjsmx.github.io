@@ -17,6 +17,12 @@
       	"name" : "Sergio Alcalá",
       	"speak": "Animaciones en AngularJS",
         "description" : "Aprende a realizar animaciones con AngularJS."
+      },
+      {
+        "twitter" : "alevardi",
+        "name" : "Amet y Ardroz",
+        "speak": "Ganando un hackaton con AngularJS",
+        "description" : "Amet y David nos contaran su experiencia utilizando AngularJS en un hackaton."
       }
     ]
   }
