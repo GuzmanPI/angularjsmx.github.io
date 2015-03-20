@@ -2386,6 +2386,8 @@ section.instagram{
     vertical-align: middle;
     float: none;
 }
-.historico .col-md-2:nth-child(7){
+.historico .col-md-2:nth-child(7),
+.historico .col-md-2:nth-child(8),
+.historico .col-md-2:nth-child(9),{
   display: none;
 }
