@@ -23,6 +23,12 @@
         "name" : "Amet y Ardroz",
         "speak": "Ganando un hackaton con AngularJS",
         "description" : "Amet y David nos contaran su experiencia utilizando AngularJS en un hackaton."
+      },
+      {
+        "twitter" : "andresfractal",
+        "name" : "Andrés Gómez Urquiza",
+        "speak": "AngularJS en la vida real: Fractal",
+        "description" : "Andrés nos platicará como AngularJS es utilizado en Fractal para hacer Marketing Intelligence."
       }
     ]
   }
