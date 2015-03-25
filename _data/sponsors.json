@@ -34,4 +34,14 @@
     "img" : "qroworking.png",
     "url" : "http://qroworking.mx",
   },
+  {
+    "name" : "Qroworking",
+    "img" : "qroworking.png",
+    "url" : "http://qroworking.mx",
+  },
+  {
+    "name" : "Blue Ocean",
+    "img" : "blueocean.png",
+    "url" : "http://www.egob.mx/",
+  },
 ]
