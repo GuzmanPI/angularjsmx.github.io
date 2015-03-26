@@ -1200,6 +1200,19 @@ nav .container {
   background: #9E2929;
 }
 
+.green .color-blocks .simple-row:nth-child(1){
+  background: #6da20f;
+}
+.green .color-blocks .simple-row:nth-child(2){
+  background: #7cb911;
+}
+.green .color-blocks .simple-row:nth-child(3){
+  background: #578506;
+}
+.green .speaker-description span{
+  color: #7cb911 !important;
+}
+
 .blue .color-blocks .simple-row:nth-child(1){
   background: #03a9f4;
 }
@@ -1220,6 +1233,9 @@ H2.colorize{
 }
 .blue H2.colorize{
   color: #039be5;
+}
+.green H2.colorize{
+  color: #6fa119;
 }
 .block-center{
   background: #b52d30;
@@ -2378,6 +2394,9 @@ H2.job{
   border: none;
   font-size: 18px;
 }
+.green a{
+  color: #6fa119;
+}
 section.instagram{
   margin-top: 20px;
 }
@@ -2385,4 +2404,8 @@ section.instagram{
     display: inline-block;
     vertical-align: middle;
     float: none;
+}
+.organization .col-md-3{
+  height: 100px;
+
 }
