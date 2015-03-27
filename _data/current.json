@@ -58,5 +58,38 @@
         "description" : "Andrés nos platicará como AngularJS es utilizado en Fractal para hacer Marketing Intelligence."
       }
     ]
+  },
+    {
+    "date":"Abril 25",
+    "full_date" : "25 de Abril, 2015",
+    "history" : "Abril 2015",
+    "hour" : "10:00",
+    "icon" : "green_qro.png",
+    "tickets": "http://www.meetup.com/AngularJS-Mexico/events/221434981/",
+    "address": "Instituto Tecnólogico de Querétaro <b>Audiovisual 1</b>, Av. Tecnólogico S/N, C.P 76000",
+    "map" : "https://goo.gl/maps/PvROn",
+    "location" : "Querétaro",
+    "location_min" : "QRO",
+    "meetup" : "2do",
+    "speakers" : [
+      {
+        "twitter" : "vgarcmr",
+        "name" : "Valeria García",
+        "speak": "AngularJS, lo básico",
+        "description" : "Aprende de la mano de Valería que es AngularJs."
+      },
+      {
+        "twitter": "citlacom",
+        "name": "Pablo Cerda",
+        "speak": "Aplicaciones web con AngularJS y Drupal",
+        "description": "¿Drupal y Angular? Aquí aprenderas como juntar estos dos mundos."
+      },
+      {
+        "twitter": "gerardsans",
+        "name": "Gerard Sans",
+        "speak": "Programando Sockets con AngularJS",
+        "description": "¿Sockets y AngularJS? Gerard nos enseñara como combinar estas tecnologías."
+      },
+    ]
   }
 ]
