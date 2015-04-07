@@ -87,8 +87,8 @@
       {
         "twitter": "gerardsans",
         "name": "Gerard Sans",
-        "speak": "Programando Sockets con AngularJS",
-        "description": "¿Sockets y AngularJS? Gerard nos enseñara como combinar estas tecnologías."
+        "speak": "AngularJS + OpenLayers 3",
+        "description": "OpenLayers es una librería para cubrir cualquier necesidad con mapas, aquí veremos como integrarlo con AngularJS"
       },
     ]
   }
