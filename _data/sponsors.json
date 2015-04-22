@@ -5,6 +5,11 @@
     "url" : "http://centraal.com/",
   },
   {
+    "name" : "Google Developers",
+    "img"  : "gd.png",
+    "url" : "http://google.com/",
+  }, 
+ {
     "name" : "Hackers & Founders",
     "img"  : "hf.png",
     "url" : "http://hf.cx/",
