@@ -9,6 +9,11 @@
     "img"  : "gd.png",
     "url" : "http://google.com/",
   }, 
+  {
+    "name" : "PluralSight",
+    "img"  : "pluralsight.png",
+    "url" : "http://www.pluralsight.com/",
+ },
  {
     "name" : "Hackers & Founders",
     "img"  : "hf.png",
