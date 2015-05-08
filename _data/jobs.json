@@ -17,4 +17,10 @@
     "url" : "http://xpertys.com.mx/pages/contacto/contacto.html",
     "location" : "Toluca"
   },
+  {
+    "company" : "Signot",
+    "position": "Web Developer Junior",
+    "url" : "mailto:Iddar@dbug.mx",
+    "location" : "Querétaro"
+  },
 ]
