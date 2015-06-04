@@ -1,5 +1,98 @@
 [
   {
+    "date":"Abril 11",
+    "full_date" : "11 de Abril, 2015",
+    "history" : "Abril 2015",
+    "hour" : "10:00",
+    "icon" : "green_mrd.png",
+    "tickets": "http://www.meetup.com/AngularJS-Mexico/events/221411566/",
+    "address": "Blue Ocean Technologies, Calle 18 X 25 103, 97125 Mérida Yucatán",
+    "map" : "https://goo.gl/maps/AxbMf",
+    "location" : "Mérida",
+    "location_min" : "MID",
+    "meetup" : "1er",
+    "speakers" : [
+      {
+        "twitter" : "jessvargas07",
+        "name" : "Jesus G. Vargas Couoh",
+        "speak": "Iniciando con AngularJS",
+        "description" : "Platicaremos sobre que es AngularJS y como utilizarlo."
+      },
+      {
+        "twitter" : "javikin",
+        "name" : "Javier Olan",
+        "speak": "AngularJS y Yeoman",
+        "description" : "Aprenderemos que es el scaffolding y como usarlo con AngularJS."
+      }
+    ]
+  },
+  {
+    "date":"Abril 18",
+    "full_date" : "18 de Abril, 2015",
+    "history" : "Abril 2015",
+    "hour" : "10:00",
+    "icon" : "green_cdmx.png",
+    "tickets": "http://www.meetup.com/AngularJS-Mexico/events/221286977/",
+    "address": "Centraal, Zamora 187. Condesa México DF C.P 06140",
+    "map" : "https://goo.gl/maps/VrCJj",
+    "location" : "Ciudad de México",
+    "location_min" : "CDMX",
+    "meetup" : "7mo",
+    "speakers" : [
+      {
+        "twitter" : "checoipn",
+        "name" : "Sergio Alcalá",
+        "speak": "Animaciones en AngularJS",
+        "description" : "Aprende a realizar animaciones con AngularJS."
+      },
+      {
+        "twitter" : "alevardi",
+        "name" : "Amet y Ardroz",
+        "speak": "Ganando un hackaton con AngularJS",
+        "description" : "Amet y David nos contaran su experiencia utilizando AngularJS en un hackaton."
+      },
+      {
+        "twitter" : "andresfractal",
+        "name" : "Andrés Gómez Urquiza",
+        "speak": "AngularJS en la vida real: Fractal",
+        "description" : "Andrés nos platicará como AngularJS es utilizado en Fractal para hacer Marketing Intelligence."
+      }
+    ]
+  },
+    {
+    "date":"Abril 25",
+    "full_date" : "25 de Abril, 2015",
+    "history" : "Abril 2015",
+    "hour" : "10:00",
+    "icon" : "green_qro.png",
+    "tickets": "http://www.meetup.com/AngularJS-Mexico/events/221434981/",
+    "address": "Instituto Tecnólogico de Querétaro <b>Audiovisual 1</b>, Av. Tecnólogico S/N, C.P 76000",
+    "map" : "https://goo.gl/maps/PvROn",
+    "location" : "Querétaro",
+    "location_min" : "QRO",
+    "meetup" : "2do",
+    "speakers" : [
+      {
+        "twitter" : "vgarcmr",
+        "name" : "Valeria García",
+        "speak": "AngularJS, lo básico",
+        "description" : "Aprende de la mano de Valería que es AngularJs."
+      },
+      {
+        "twitter": "citlacom",
+        "name": "Pablo Cerda",
+        "speak": "Aplicaciones web con AngularJS y Drupal",
+        "description": "¿Drupal y Angular? Aquí aprenderas como juntar estos dos mundos."
+      },
+      {
+        "twitter": "gerardsans",
+        "name": "Gerard Sans",
+        "speak": "AngularJS + OpenLayers 3",
+        "description": "OpenLayers es una librería para cubrir cualquier necesidad con mapas, aquí veremos como integrarlo con AngularJS"
+      },
+    ]
+  },
+  {
     "date": "Febrero 21",
     "full_date": "21 de Febrero, 2015",
     "history": "Febrero 2015",

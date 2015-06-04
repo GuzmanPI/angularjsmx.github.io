@@ -5,11 +5,6 @@
     "url" : "http://centraal.com/",
   },
   {
-    "name" : "Google Developers",
-    "img"  : "gd.png",
-    "url" : "http://google.com/",
-  }, 
-  {
     "name" : "PluralSight",
     "img"  : "pluralsight.png",
     "url" : "http://www.pluralsight.com/",
@@ -30,8 +25,8 @@
     "url" : "http://xpertys.com.mx/",
   },
   {
-    "name" : "Blue Ocean",
-    "img" : "blueocean.png",
-    "url" : "http://www.egob.mx/",
+    "name" : "Closerme",
+    "img"  : "closerme.png",
+    "url" : "http://closerme.com/",
   },
 ]

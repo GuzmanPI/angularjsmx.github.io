@@ -1379,13 +1379,23 @@ H2.colorize{
 .speaker-description p{
   font-size: 12px;
 }
+.historico .col-event{
+  height: 300px;
+}
 @media all and (max-width: 767px) {
+  .historico .col-event{
+    height: auto !important;
+  }
   .speaker-with-bio .speaker {
-    width: 100%;
+    width: 80px;
   }
   .speaker-with-bio .speaker-description {
     width: 100%;
     padding-left: 0px;
+  }
+  .organization .speaker-description{
+    width: 80%;
+    padding-left: 5%;
   }
 }
 .topics {
