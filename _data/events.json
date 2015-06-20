@@ -1,5 +1,32 @@
 [
   {
+    "date":"Junio 6",
+    "full_date" : "6 de Junio, 2015",
+    "history" : "Junio 2015",
+    "hour" : "10:00",
+    "icon" : "blue_mrd.png",
+    "tickets": "http://www.meetup.com/AngularJS-Mexico/events/221434981/",
+    "address": "Closerme, Calle 38 #502-f entre 61 y 63, 97000 Mérida Yucatán",
+    "map" : "https://goo.gl/maps/dg4i2",
+    "location" : "Mérida",
+    "location_min" : "MID",
+    "meetup" : "2do",
+    "speakers" : [
+      {
+        "twitter" : "jessvargas07",
+        "name" : "Jesus G. Vargas Couoh",
+        "speak": "¿Qué hacemos en AngularJs MID? ",
+        "description" : "¿Eres nuevo?, acá te enseñamos de que se trata."
+      },
+      {
+        "twitter" : "miguelguirao",
+        "name" : "Miguel Guirao",
+        "speak": "Introducción a Angular",
+        "description" : "Aprende y comienza a programar con AngularJS."
+      }
+    ]
+  },
+  {
     "date":"Abril 11",
     "full_date" : "11 de Abril, 2015",
     "history" : "Abril 2015",
@@ -54,7 +81,7 @@
       {
         "twitter" : "andresfractal",
         "name" : "Andrés Gómez Urquiza",
-        "speak": "AngularJS en la vida real: Fractal",
+        "speak": "Angular en la vida real: Fractal",
         "description" : "Andrés nos platicará como AngularJS es utilizado en Fractal para hacer Marketing Intelligence."
       }
     ]
