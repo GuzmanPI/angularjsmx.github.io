@@ -2,56 +2,23 @@
 
   
   {
-    "date":"Junio 20",
-    "full_date" : "20 de Junio, 2015",
-    "history" : "Junio 2015",
+    "date":"Julio 18",
+    "full_date" : "18 de Julio, 2015",
+    "history" : "Julio 2015",
     "hour" : "10:00",
     "icon" : "blue_cdmx.png",
-    "tickets": "http://www.meetup.com/AngularJS-Mexico/events/223215271/",
+    "tickets": "http://www.meetup.com/AngularJS-Mexico/events/223608767/",
     "address": "Centraal, Zamora 187. Condesa México DF C.P 06140",
     "map" : "https://goo.gl/maps/VrCJj",
     "location" : "Ciudad de México",
     "location_min" : "CDMX",
-    "meetup" : "8vo",
+    "meetup" : "9no",
     "speakers" : [
       {
-        "twitter" : "eusoj",
-        "name" : "Josué G",
-        "speak": "Vistazo rápido a Angular 2.0",
-        "description" : "Daremos un vistazo de como prepararnos para Angular 2.0."
-      },
-      {
-        "twitter" : "israelgp4",
-        "name" : "Israel Guzmán",
-        "speak": "Angular Material",
-        "description" : "Israel nos platicará de la integración de Material en Angular"
-      },
-      {
-        "twitter" : "eusoj",
-        "name" : "Josué G",
-        "speak": "Angular en la vida real: Beerhouse",
-        "description" : "Beerhouse by Modelo, es un proyecto realizado en AngularJS"
-      },
-    ]
-  },
-  {
-    "date":"Julio 4",
-    "full_date" : "4 de Julio, 2015",
-    "history" : "Julio 2015",
-    "hour" : "10:00",
-    "icon" : "blue_mrd.png",
-    "tickets": "http://www.meetup.com/AngularJS-Mexico/",
-    "address": "Lugar por confirmar",
-    "map" : "",
-    "location" : "Mérida",
-    "location_min" : "MID",
-    "meetup" : "3er",
-    "speakers" : [
-      {
-        "twitter" : "jessvargas07",
-        "name" : "Jesus G. Vargas Couoh",
-        "speak": "AngularJs MID",
-        "description" : "AngularJS Mérida"
+        "twitter" : "greatelse",
+        "name" : "Erik Cruz Almaraz",
+        "speak": "Angular en tu portafolio",
+        "description" : "¿Cómo te ayuda Angular en el mundo laboral?"
       },
     ]
   },
