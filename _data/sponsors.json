@@ -15,6 +15,11 @@
     "url" : "http://hf.cx/",
   },
   {
+    "name" : "Google Developers",
+    "img"  : "gd.png",
+    "url" : "http://developers.google.com/",
+  },
+  {
     "name" : "Vinco Orbis",
     "img"  : "vincoorbis.png",
     "url" : "http://vincoorbis.com/",
