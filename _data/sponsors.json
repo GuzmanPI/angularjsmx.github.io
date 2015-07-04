@@ -8,16 +8,27 @@
     "name" : "PluralSight",
     "img"  : "pluralsight.png",
     "url" : "http://www.pluralsight.com/",
- },
- {
-    "name" : "Hackers & Founders",
-    "img"  : "hf.png",
-    "url" : "http://hf.cx/",
   },
   {
     "name" : "Google Developers",
     "img"  : "gd.png",
     "url" : "http://developers.google.com/",
+  },
+  {
+    "name" : "Hackers & Founders",
+    "img"  : "hf.png",
+    "url" : "http://hf.cx/",
+  },
+  
+  {
+    "name" : "Angelhack",
+    "img"  : "angelhack.png",
+    "url" : "http://angelhack.com/",
+  },
+  {
+    "name" : "Beerhouse",
+    "img"  : "beerhouse.png",
+    "url" : "http://beerhouse.mx",
   },
   {
     "name" : "Vinco Orbis",
@@ -29,9 +40,5 @@
     "img"  : "xpertys.png",
     "url" : "http://xpertys.com.mx/",
   },
-  {
-    "name" : "Beerhouse",
-    "img"  : "beerhouse.png",
-    "url" : "http://beerhouse.mx",
-  },
+  
 ]
