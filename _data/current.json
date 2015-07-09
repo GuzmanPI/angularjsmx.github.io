@@ -20,6 +20,12 @@
         "speak": "Angular en tu portafolio",
         "description" : "¿Cómo te ayuda Angular en el mundo laboral?"
       },
+       {
+        "twitter" : "israelgp4",
+        "name" : "Israel Guzmán",
+        "speak": "Haciendo una App con Angular 2",
+        "description" : "Seguimos con las pláticas de Angular 2"
+      },
     ]
   },
 ]
