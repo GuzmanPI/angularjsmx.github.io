@@ -1,6 +1,4 @@
 [
-
-  
   {
     "date":"Julio 18",
     "full_date" : "18 de Julio, 2015",
@@ -20,7 +18,13 @@
         "speak": "Angular en tu portafolio",
         "description" : "¿Cómo te ayuda Angular en el mundo laboral?"
       },
-       {
+      {
+        "twitter" : "zombie_graves",
+        "name" : "Ruben Mejorada",
+        "speak": "AngularJS en Aplicaciones Empresariales",
+        "description" : "¿AngularJS y Empresas?, conoce otra perspectiva "
+      },
+      {
         "twitter" : "israelgp4",
         "name" : "Israel Guzmán",
         "speak": "Haciendo una App con Angular 2",
@@ -29,3 +33,5 @@
     ]
   },
 ]
+
+
