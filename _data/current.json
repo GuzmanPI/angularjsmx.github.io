@@ -13,6 +13,12 @@
     "meetup" : "9no",
     "speakers" : [
       {
+        "twitter" : "randomwalkermx",
+        "name" : "RandomwalkerMX",
+        "speak": "Ganando un Hackaton de AngelHack",
+        "description" : "El equipo de RandomwalkerMX nos contará su experiencia ganando el Hackaton de AngelHack."
+      },
+      {
         "twitter" : "greatelse",
         "name" : "Erik Cruz Almaraz",
         "speak": "Angular en tu portafolio",
