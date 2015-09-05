@@ -1380,7 +1380,7 @@ H2.colorize{
   font-size: 12px;
 }
 .historico .col-event{
-  height: 320px;
+  height: 360px;
 }
 @media all and (max-width: 767px) {
   .historico .col-event{

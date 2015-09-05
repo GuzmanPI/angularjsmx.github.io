@@ -1,26 +1,20 @@
 [
   {
-    "company" : "Vinco Orbis",
-    "position": "Front-End Developer",
-    "url" : "http://vincoorbis.com/#!/jobs/frontend-developer",
-    "location" : "Ciudad de México"
+    "company" : "Terss",
+    "position": "UI Software Developer",
+    "url" : "http://angularjsmexico.com/vacantes/softwaredeveloper.jpg",
+    "location" : "Ubicación por definir"
   },
   {
-    "company" : "Vinco Orbis",
-    "position": "Python Developer",
-    "url" : "http://vincoorbis.com/#!/jobs/python-developer",
-    "location" : "Ciudad de México"
+    "company" : "Terss",
+    "position": "AngularJs Tech Lead",
+    "url" : "http://angularjsmexico.com/vacantes/techlead.jpg",
+    "location" : "Querétaro"
   },
   {
     "company" : "Xpertys",
     "position": "Web Developer para Training en AngularJs",
-    "url" : "http://xpertys.com.mx/pages/contacto/contacto.html",
+    "url" : "http://xpertys.com.mx/#contacto",
     "location" : "Toluca"
-  },
-  {
-    "company" : "Signot",
-    "position": "Web Developer Junior",
-    "url" : "mailto:Iddar@dbug.mx",
-    "location" : "Querétaro"
   },
 ]

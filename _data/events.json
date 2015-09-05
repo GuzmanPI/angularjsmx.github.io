@@ -1,5 +1,77 @@
 [
   {
+    "date":"Agosto 15",
+    "full_date" : "15 de Agosto, 2015",
+    "history" : "Agosto 2015",
+    "hour" : "10:00",
+    "icon" : "blue_cdmx.png",
+    "tickets": "http://www.meetup.com/AngularJS-Mexico/events/223608767/",
+    "address": "Centraal, Zamora 187. Condesa México DF C.P 06140",
+    "map" : "https://goo.gl/maps/VrCJj",
+    "location" : "Ciudad de México",
+    "location_min" : "CDMX",
+    "meetup" : "10mo",
+    "speakers" : [
+      {
+        "twitter" : "checoipn",
+        "name" : "Sergio Alcalá",
+        "speak": "Cómo convencer a tu jefe de usar Angular",
+        "description" : "Conoce los tips que debe decir a tu jefe."
+      },
+      {
+        "twitter": "avillat",
+        "name": "Alberto V.",
+        "speak": "Angular en la vida real: Spartan Geek",
+        "description": "Alberto Villa y Rodrigo Contreras nos platicarán sobre Spartan Geek."
+      },
+      {
+        "twitter" : "israelgp4",
+        "name" : "Israel Guzmán",
+        "speak": "Forms en Angular 2",
+        "description" : "Seguimos con las pláticas de Angular 2, Forms en esta ocasión"
+      },
+    ]
+  },
+  {
+    "date":"Julio 18",
+    "full_date" : "18 de Julio, 2015",
+    "history" : "Julio 2015",
+    "hour" : "10:00",
+    "icon" : "blue_cdmx.png",
+    "tickets": "http://www.meetup.com/AngularJS-Mexico/events/223608767/",
+    "address": "Centraal, Zamora 187. Condesa México DF C.P 06140",
+    "map" : "https://goo.gl/maps/VrCJj",
+    "location" : "Ciudad de México",
+    "location_min" : "CDMX",
+    "meetup" : "9no",
+    "speakers" : [
+      {
+        "twitter" : "randomwalkermx",
+        "name" : "RandomwalkerMX",
+        "speak": "Ganando un Hackaton de AngelHack",
+        "description" : "El equipo de RandomwalkerMX nos contará su experiencia ganando el Hackaton de AngelHack."
+      },
+      {
+        "twitter" : "greatelse",
+        "name" : "Erik Cruz Almaraz",
+        "speak": "Angular en tu portafolio",
+        "description" : "¿Cómo te ayuda Angular en el mundo laboral?"
+      },
+      {
+        "twitter" : "zombie_graves",
+        "name" : "Ruben Mejorada",
+        "speak": "AngularJS en Aplicaciones Empresariales",
+        "description" : "¿AngularJS y Empresas?, conoce otra perspectiva "
+      },
+      {
+        "twitter" : "israelgp4",
+        "name" : "Israel Guzmán",
+        "speak": "Haciendo una App con Angular 2",
+        "description" : "Seguimos con las pláticas de Angular 2"
+      },
+    ]
+  },
+  {
     "date":"Junio 20",
     "full_date" : "20 de Junio, 2015",
     "history" : "Junio 2015",
