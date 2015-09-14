@@ -12,6 +12,12 @@
     "location_min" : "CDMX",
     "meetup" : "11vo",
     "speakers" : [
+       {
+        "twitter" : "eusoj",
+        "name" : "Josué G",
+        "speak": "Angular Meteor",
+        "description" : "Conoceremos que es Angular Meteor."
+      },
       {
         "twitter" : "israelgp4",
         "name" : "Israel Guzmán",
