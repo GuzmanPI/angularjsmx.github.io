@@ -12,6 +12,12 @@
     "location" : "Querétaro"
   },
   {
+    "company" : "Propiedades.com",
+    "position": "AngularJS Developer",
+    "url" : "http://angularjsmexico.com/vacantes/propiedades.pdf",
+    "location" : "Toluca"
+  },
+  {
     "company" : "Xpertys",
     "position": "Web Developer para Training en AngularJs",
     "url" : "http://xpertys.com.mx/#contacto",
