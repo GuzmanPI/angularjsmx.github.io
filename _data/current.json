@@ -1,8 +1,8 @@
 [
   {
-    "date":"Septiembre 19",
-    "full_date" : "19 de Septiembre, 2015",
-    "history" : "Septiembre 2015",
+    "date":"Octubre 17",
+    "full_date" : "17 de Octubre, 2015",
+    "history" : "Octubre 2015",
     "hour" : "10:00",
     "icon" : "blue_cdmx.png",
     "tickets": "http://www.meetup.com/AngularJS-Mexico/events/225023245/",
@@ -10,13 +10,13 @@
     "map" : "https://goo.gl/maps/VrCJj",
     "location" : "Ciudad de México",
     "location_min" : "CDMX",
-    "meetup" : "11vo",
+    "meetup" : "12vo",
     "speakers" : [
-       {
+      {
         "twitter" : "eusoj",
         "name" : "Josué G",
-        "speak": "Angular Meteor",
-        "description" : "Conoceremos que es Angular Meteor."
+        "speak": "Angular y Github Electron",
+        "description" : "Josué Enseñara a generar una APP con Angular y Github Electron"
       },
       {
         "twitter" : "israelgp4",

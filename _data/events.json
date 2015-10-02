@@ -1,5 +1,32 @@
 [
   {
+    "date":"Septiembre 19",
+    "full_date" : "19 de Septiembre, 2015",
+    "history" : "Septiembre 2015",
+    "hour" : "10:00",
+    "icon" : "blue_cdmx.png",
+    "tickets": "http://www.meetup.com/AngularJS-Mexico/events/225023245/",
+    "address": "Centraal, Zamora 187. Condesa México DF C.P 06140",
+    "map" : "https://goo.gl/maps/VrCJj",
+    "location" : "Ciudad de México",
+    "location_min" : "CDMX",
+    "meetup" : "11vo",
+    "speakers" : [
+       {
+        "twitter" : "eusoj",
+        "name" : "Josué G",
+        "speak": "Angular Meteor",
+        "description" : "Conoceremos que es Angular Meteor."
+      },
+      {
+        "twitter" : "israelgp4",
+        "name" : "Israel Guzmán",
+        "speak": "Routes en Angular 2",
+        "description" : "Seguimos con las pláticas de Angular 2, rutas en esta ocasión."
+      },
+    ]
+  },
+  {
     "date":"Agosto 15",
     "full_date" : "15 de Agosto, 2015",
     "history" : "Agosto 2015",
