@@ -1,17 +1,5 @@
 [
   {
-    "company" : "Terss",
-    "position": "UI Software Developer",
-    "url" : "http://angularjsmexico.com/vacantes/softwaredeveloper.jpg",
-    "location" : "Ubicación por definir"
-  },
-  {
-    "company" : "Terss",
-    "position": "AngularJs Tech Lead",
-    "url" : "http://angularjsmexico.com/vacantes/techlead.jpg",
-    "location" : "Querétaro"
-  },
-  {
     "company" : "Propiedades.com",
     "position": "AngularJS Developer",
     "url" : "http://angularjsmexico.com/vacantes/propiedades.pdf",

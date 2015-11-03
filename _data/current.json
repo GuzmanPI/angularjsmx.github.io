@@ -1,27 +1,39 @@
 [
   {
-    "date":"Octubre 17",
-    "full_date" : "17 de Octubre, 2015",
-    "history" : "Octubre 2015",
+    "date":"Noviembre 21",
+    "full_date" : "21 de Noviembre, 2015",
+    "history" : "Noviembre 2015",
     "hour" : "10:00",
     "icon" : "blue_cdmx.png",
-    "tickets": "http://www.meetup.com/AngularJS-Mexico/events/225788342/",
+    "tickets": "http://www.meetup.com/AngularJS-Mexico/events/226504666/",
     "address": "Centraal, Zamora 187. Condesa México DF C.P 06140",
     "map" : "https://goo.gl/maps/VrCJj",
     "location" : "Ciudad de México",
     "location_min" : "CDMX",
-    "meetup" : "12vo",
+    "meetup" : "13vo",
     "speakers" : [
+      {
+        "twitter" : "chino_che",
+        "name" : "Mario Rivas Bonilla",
+        "speak": "Angular Multiplataforma",
+        "description" : "¿Ionic, Material?, similitudes con la web tradicional"
+      },
+      {
+        "twitter" : "checoipn",
+        "name" : "Sergio Alcalá",
+        "speak": "Manejo de rutas con UI-router",
+        "description" : "Sergio nos enseñará UI-router, para poder utilzarlo en nuestros proyectos"
+      },
       {
         "twitter" : "eusoj",
         "name" : "Josué G",
-        "speak": "Angular y Github Electron",
-        "description" : "Josué Enseñara a generar una APP con Angular y Github Electron"
+        "speak": "Realtime Angular Control",
+        "description" : "Aprenderemos a crear controles en tiempo real con AngularJS"
       },
       {
         "twitter" : "israelgp4",
         "name" : "Israel Guzmán",
-        "speak": "Routes en Angular 2",
+        "speak": "Learing Angular 2",
         "description" : "Seguimos con las pláticas de Angular 2, rutas en esta ocasión."
       },
     ]
