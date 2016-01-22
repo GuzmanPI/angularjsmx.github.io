@@ -1,5 +1,44 @@
 [
   {
+    "date":"Noviembre 21",
+    "full_date" : "21 de Noviembre, 2015",
+    "history" : "Noviembre 2015",
+    "hour" : "10:00",
+    "icon" : "blue_cdmx.png",
+    "tickets": "http://www.meetup.com/AngularJS-Mexico/events/226504666/",
+    "address": "Centraal, Zamora 187. Condesa México DF C.P 06140",
+    "map" : "https://goo.gl/maps/VrCJj",
+    "location" : "Ciudad de México",
+    "location_min" : "CDMX",
+    "meetup" : "13º",
+    "speakers" : [
+      {
+        "twitter" : "chino_che",
+        "name" : "Mario Rivas Bonilla",
+        "speak": "Angular Multiplataforma",
+        "description" : "¿Ionic, Material?, similitudes con la web tradicional"
+      },
+      {
+        "twitter" : "checoipn",
+        "name" : "Sergio Alcalá",
+        "speak": "Manejo de rutas con UI-router",
+        "description" : "Sergio nos enseñará UI-router, para poder utilzarlo en nuestros proyectos"
+      },
+      {
+        "twitter" : "eusoj",
+        "name" : "Josué G",
+        "speak": "Realtime Angular Control",
+        "description" : "Aprenderemos a crear controles en tiempo real con AngularJS"
+      },
+      {
+        "twitter" : "israelgp4",
+        "name" : "Israel Guzmán",
+        "speak": "Learing Angular 2",
+        "description" : "Seguimos con las pláticas de Angular 2, rutas en esta ocasión."
+      },
+    ]
+  },
+  {
     "date":"Octubre 17",
     "full_date" : "17 de Octubre, 2015",
     "history" : "Octubre 2015",
@@ -10,7 +49,7 @@
     "map" : "https://goo.gl/maps/VrCJj",
     "location" : "Ciudad de México",
     "location_min" : "CDMX",
-    "meetup" : "12vo",
+    "meetup" : "12º",
     "speakers" : [
       {
         "twitter" : "eusoj",
@@ -37,7 +76,7 @@
     "map" : "https://goo.gl/maps/VrCJj",
     "location" : "Ciudad de México",
     "location_min" : "CDMX",
-    "meetup" : "11vo",
+    "meetup" : "11º",
     "speakers" : [
        {
         "twitter" : "eusoj",
@@ -64,7 +103,7 @@
     "map" : "https://goo.gl/maps/VrCJj",
     "location" : "Ciudad de México",
     "location_min" : "CDMX",
-    "meetup" : "10mo",
+    "meetup" : "10º",
     "speakers" : [
       {
         "twitter" : "checoipn",
@@ -97,7 +136,7 @@
     "map" : "https://goo.gl/maps/VrCJj",
     "location" : "Ciudad de México",
     "location_min" : "CDMX",
-    "meetup" : "9no",
+    "meetup" : "9º",
     "speakers" : [
       {
         "twitter" : "randomwalkermx",
@@ -136,7 +175,7 @@
     "map" : "https://goo.gl/maps/VrCJj",
     "location" : "Ciudad de México",
     "location_min" : "CDMX",
-    "meetup" : "8vo",
+    "meetup" : "8º",
     "speakers" : [
       {
         "twitter" : "eusoj",
@@ -169,7 +208,7 @@
     "map" : "https://goo.gl/maps/dg4i2",
     "location" : "Mérida",
     "location_min" : "MID",
-    "meetup" : "2do",
+    "meetup" : "2º",
     "speakers" : [
       {
         "twitter" : "jessvargas07",
@@ -196,7 +235,7 @@
     "map" : "https://goo.gl/maps/AxbMf",
     "location" : "Mérida",
     "location_min" : "MID",
-    "meetup" : "1er",
+    "meetup" : "1º",
     "speakers" : [
       {
         "twitter" : "jessvargas07",
@@ -223,7 +262,7 @@
     "map" : "https://goo.gl/maps/VrCJj",
     "location" : "Ciudad de México",
     "location_min" : "CDMX",
-    "meetup" : "7mo",
+    "meetup" : "7º",
     "speakers" : [
       {
         "twitter" : "checoipn",
@@ -256,7 +295,7 @@
     "map" : "https://goo.gl/maps/PvROn",
     "location" : "Querétaro",
     "location_min" : "QRO",
-    "meetup" : "2do",
+    "meetup" : "2º",
     "speakers" : [
       {
         "twitter" : "vgarcmr",
@@ -289,7 +328,7 @@
     "map": "https://goo.gl/maps/VrCJj",
     "location": "Ciudad de México",
     "location_min": "CDMX",
-    "meetup": "6to",
+    "meetup": "6º",
     "speakers": [
       {
         "twitter": "miguelsauza",
@@ -316,7 +355,7 @@
     "map": "https://goo.gl/maps/7wGCJ",
     "location": "Guadalajara",
     "location_min": "GDL",
-    "meetup": "2do",
+    "meetup": "2º",
     "speakers": [
       {
         "twitter": "agnosticmusic",
@@ -349,7 +388,7 @@
     "map": "https://goo.gl/maps/LmH7u",
     "location": "Querétaro",
     "location_min": "QRO",
-    "meetup": "1er",
+    "meetup": "1º",
     "speakers": [
       {
         "twitter": "citlacom",
@@ -373,7 +412,7 @@
     "icon": "gdl.png",
     "location": "Guadalajara",
     "location_min": "GDL",
-    "meetup": "1er",
+    "meetup": "1º",
     "speakers": [
       {
         "twitter": "eusoj",
@@ -409,7 +448,7 @@
     "icon": "cdmx.png",
     "location": "Ciudad de México",
     "location_min": "CDMX",
-    "meetup": "5to",
+    "meetup": "5º",
     "speakers": [
       {
         "twitter": "eusoj",
@@ -433,7 +472,7 @@
     "icon": "cdmx.png",
     "location": "Ciudad de México",
     "location_min": "CDMX",
-    "meetup": "4to",
+    "meetup": "4º",
     "speakers": [
       {
         "twitter": "andresdom",
@@ -455,7 +494,7 @@
     "icon": "cdmx.png",
     "location": "Ciudad de México",
     "location_min": "CDMX",
-    "meetup": "3er",
+    "meetup": "3º",
     "speakers": [
       {
         "twitter": "alevardi",
@@ -491,7 +530,7 @@
     "icon": "cdmx.png",
     "location": "Ciudad de México",
     "location_min": "CDMX",
-    "meetup": "2do",
+    "meetup": "2º",
     "speakers": [
       {
         "twitter": "alevardi",
@@ -527,7 +566,7 @@
     "icon": "cdmx.png",
     "location": "Ciudad de México",
     "location_min": "CDMX",
-    "meetup": "1er",
+    "meetup": "1º",
     "speakers": [
       {
         "twitter": "jeduan",

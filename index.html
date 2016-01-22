@@ -6,7 +6,7 @@ layout: default
   <ul class="slides">
     <li class="video-header">
       <div class="background-image-holder parallax-background">
-        <img class="background-image" alt="Background Image" src="i/septiembre_2015.jpg">
+        <img class="background-image" alt="Background Image" src="i/angularjsmx.jpg">
       </div>
       <div class="container">
         <div class="row">
@@ -155,7 +155,7 @@ layout: default
 
     <div class="row">
       <div class="col-sm-12 text-center">
-        <span>¿Interesado en patrocinar? <a href="mailto:josue.ggh+angularjsmx@gmail.com">Contáctanos</a></span>
+        <span>¿Te gustaría patrocinar un evento? <a href="mailto:josue.ggh+angularjsmx@gmail.com">Contáctanos</a></span>
       </div>
     </div>
   </div>
@@ -188,12 +188,12 @@ layout: default
   <div class="container">
     <div class="row">
       <div class="col-sm-12 text-center">
-        <h1>Histórico</h1>
+        <h1>Últimos meetups</h1>
       </div>
     </div><!--end of row-->
 
     <div class="row">
-     {% for history in site.data.events %}
+     {% for history in site.data.events limit:6%}
      <div class="col-event col-md-2 col-sm-12">
       <h5>{{history.history}},<br/> {{history.meetup}} meetup {{history.location_min}}</h5>
       {% for bio in history.speakers %}
@@ -234,6 +234,7 @@ layout: default
 
     <div class="row">
       <div class="col-sm-10 col-sm-offset-1">
+        <div class="col-md-3"></div>
         {% for organizer in site.data.organization %}
         <div class="col-md-3 col-sm-6">
           <div class="speaker-with-bio">

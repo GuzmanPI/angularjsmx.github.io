@@ -2,22 +2,11 @@
   {
     "twitter" : "eusoj",
     "name" : "Josué G",
-    "description" : "<b>Organizador Principal</b>"
+    "description" : "Organizador"
   },
   {
     "twitter" : "israelgp4",
     "name" : "Israel Guzmán",
-    "description": "Organizador y patrocinador"
-  },
-  {
-    "twitter" : "vgarcmr",
-    "name" : "Valeria García",
-    "description" : "Organizadora de Querétaro"
-  },
-  {
-    "twitter" : "jessvargas07",
-    "name" : "Jesús Vargas Couoh",
-    "description" : "Organizador de Mérida"
+    "description": "Co-Organizador"
   }
-
 ]

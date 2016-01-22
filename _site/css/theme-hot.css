@@ -1,29 +1,3 @@
-/*!
-// Contents
-// ------------------------------------------------
-
- 1. Mixins
- 2. Helper classes & resets
- 3. Loader
- 4. Colours
- 5. Typography
- 6. Spacing
- 7. Buttons
- 8. Navigation
- 9. Slider, Dividers
- 10. Speakers & Topics
- 11. Schedule
- 12. Galleries
- 13. Pricing & FAQ
- 14. Subscribe
- 15. Contact
- 16. Forms
- 17. Footers
-
-// --------------------------------------------------*/
-/*!
-// 1. Useful Mixins
-// --------------------------------------------------*/
 .vertical-align {
   position: relative;
   top: 50%;
@@ -951,7 +925,7 @@ nav .container {
 .countdown-divider img,
 .countdown-header img,
 .video-header img {
-  max-width: 380px;
+  max-width: 480px;
   display: inline-block;
   margin-bottom: 12px;
 }
@@ -1380,7 +1354,7 @@ H2.colorize{
   font-size: 12px;
 }
 .historico .col-event{
-  height: 300px;
+  height: 360px;
 }
 @media all and (max-width: 767px) {
   .historico .col-event{

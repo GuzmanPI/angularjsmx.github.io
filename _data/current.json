@@ -1,43 +1,34 @@
 [
   {
-    "date":"Noviembre 21",
-    "full_date" : "21 de Noviembre, 2015",
-    "history" : "Noviembre 2015",
+    "date":"Enero  16",
+    "full_date" : "16 de Enero, 2016",
+    "history" : "Enero 2016",
     "hour" : "10:00",
     "icon" : "blue_cdmx.png",
-    "tickets": "http://www.meetup.com/AngularJS-Mexico/events/226504666/",
+    "tickets": "http://www.meetup.com/es-ES/AngularJS-Mexico/events/227866069/",
     "address": "Centraal, Zamora 187. Condesa México DF C.P 06140",
     "map" : "https://goo.gl/maps/VrCJj",
     "location" : "Ciudad de México",
     "location_min" : "CDMX",
-    "meetup" : "13vo",
+    "meetup" : "14º",
     "speakers" : [
       {
-        "twitter" : "chino_che",
-        "name" : "Mario Rivas Bonilla",
-        "speak": "Angular Multiplataforma",
-        "description" : "¿Ionic, Material?, similitudes con la web tradicional"
-      },
-      {
-        "twitter" : "checoipn",
-        "name" : "Sergio Alcalá",
-        "speak": "Manejo de rutas con UI-router",
-        "description" : "Sergio nos enseñará UI-router, para poder utilzarlo en nuestros proyectos"
-      },
-      {
-        "twitter" : "eusoj",
-        "name" : "Josué G",
-        "speak": "Realtime Angular Control",
-        "description" : "Aprenderemos a crear controles en tiempo real con AngularJS"
+        "twitter" : "gerardx2",
+        "name" : "Gerardo Alvarez",
+        "speak": "Angular en la vida real: Laudrive",
       },
       {
         "twitter" : "israelgp4",
         "name" : "Israel Guzmán",
-        "speak": "Learing Angular 2",
-        "description" : "Seguimos con las pláticas de Angular 2, rutas en esta ocasión."
+        "speak": "Typescript y Angular 2",
       },
+      {
+        "twitter" : "julienrenaux",
+        "name" : "Julien Renaux",
+        "speak": "Cross platforms apps with Ionic Framework",
+      }
     ]
-  },
+  }
 ]
 
 
