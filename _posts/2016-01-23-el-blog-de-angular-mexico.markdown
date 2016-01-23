@@ -5,7 +5,7 @@ title: "El blog de Angular México"
 date:   2016-01-23 00 :00:00
 categories: [comunidad, angular]
 author: eusoj
-description: En el 2016 queremos comenzar un blog colaborativo de la comunidad.
+description: Este año buscamos generar más contenido a través de nuestro blog colaborativo.
 ---
 En este año queremos generar más contenido relacionado a [Angular](https://angular.io/) que permita a está y otras comunidades continuar su aprendizaje del Framework *(tanto de la versión 1 como de la 2)*, por ello este blog está pensado en servir como el medio para que cualquier persona interesada en compartir un poco de su conocimiento lo haga a través de un post, ya sea de un proyecto que se encuentren realizando con angular, un tutorial o explicando algún concepto del framework.
 
