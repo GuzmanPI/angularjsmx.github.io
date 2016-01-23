@@ -1,7 +1,7 @@
 ---
 layout: post
-permalink: /blog/:title/
-title:  "El blog de Angular México"
+permalink: /blog/el-blog-de-angular-mexico/
+title: "El blog de Angular México"
 date:   2016-01-23 00 :00:00
 categories: [comunidad, angular]
 author: eusoj
