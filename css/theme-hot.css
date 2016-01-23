@@ -95,7 +95,7 @@ img {
 .strip-3 {
   width: 20px;
   height: 20px;
-  background: #da3c3c;
+  background: #03a9f4;
   position: relative;
   -webkit-animation: stripMove 2s ease infinite alternate;
   animation: stripMove 2s ease infinite alternate;
@@ -104,12 +104,12 @@ img {
 .strip-2 {
   -webkit-animation-duration: 2.1s;
   animation-duration: 2.1s;
-  background-color: #ca1d1d;
+  background-color: #03b4ff;
 }
 .strip-3 {
   -webkit-animation-duration: 2.2s;
   animation-duration: 2.2s;
-  background-color: #b52d30;
+  background-color: #00d8ff;
 }
 @-webkit-keyframes stripMove {
   0% {
@@ -777,6 +777,12 @@ nav .container {
   -moz-transform-style: preserve-3d;
   transform-style: preserve-3d;
 }
+.blog-slider{
+  background: rgb(31, 137, 185);
+}
+.blog-slider .slides li{
+  height:200px;
+}
 .hero-slider .slides li:before {
   background-color: #333333;
   opacity: 0.4;
@@ -938,6 +944,9 @@ nav .container {
 .video-header:before {
   opacity: 0.5 !important;
   background: #000 !important;
+}
+.blog-slider .video-header:before {
+  background: none !important;
 }
 .video-header .uppercase,
 .countdown-header .uppercase {
@@ -2392,4 +2401,36 @@ section.instagram{
 .organization .col-md-3{
   height: 100px;
 
+}
+.col-blog-post-info h2{
+  margin-bottom: 10px;
+}
+.col-blog-post-info p{
+  margin-top: 5px;
+}
+.col-blog-post-info a {
+  font-weight: normal;
+  border-bottom: none;
+  text-decoration: none;
+}
+.post-meta{
+  color: white;
+}
+.post-content{
+  padding-top: 20px;
+}
+.categories-post{
+  text-transform: uppercase;
+  font-size: 90%;
+  margin-bottom: 30px;
+  color: #000;
+}
+.post-content p{
+  font-size: 120%;
+  margin-bottom: 30px;
+}
+.post-content a{
+  text-decoration: none;
+  font-weight: none;
+  border:none;
 }

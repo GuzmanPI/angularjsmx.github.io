@@ -1,12 +1,28 @@
 <head>
     <meta charset="utf-8">
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <title>{% if page.title %}{{site.title}}: {{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    {% if page.description %}<meta name="description" content="{{ page.description }}">{% else %}<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">{% endif %}
+    <meta content="{{ site.title }}" property="og:site_name">
+    {% if page.title %}<meta content="{{ page.title }}" property="og:title"><meta content="{{ page.title }}" itemprop="name">{% else %}<meta content="{{ site.title }}" property="og:title">{% endif %}
+    {% if page.title %}<meta content="article" property="og:type">{% else %}<meta content="website" property="og:type">{% endif %}
+    {% if page.description %}<meta content="{{ page.description }}" property="og:description"><meta content="{{ page.description }}" itemprop="description">  {% else %}<meta content="{{ site.description }}" property="og:description">{% endif %}
+    {% if page.url %}<meta content="{{ site.url }}{{ page.url }}" property="og:url">{% endif %}
+    {% if page.date %}<meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time"><meta content="{{ site.url }}/about/" property="article:author">{% endif %}
+    {% if page.categories %}{% for category in page.categories limit:1 %}<meta content="{{ category }}" property="article:section">{% endfor %}{% endif %}
+    {% if page.tags %}{% for tag in page.tags %}<meta content="{{ tag }}" property="article:tag">{% endfor %}{% endif %}
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <link rel="stylesheet" href="{{ "/css/bootstrap.min.css" | prepend: site.baseurl }}">
     <link rel="stylesheet" href="{{ "/css/elegant-icons.min.css" | prepend: site.baseurl }}">
     <link rel="stylesheet" href="{{ "/css/theme-hot.css" | prepend: site.baseurl }}">
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,300' rel='stylesheet' type='text/css'>
     <link href="/i/favicon.ico" rel="shortcut icon" type="image/x-icon">
+
+    <script>
+        window.___gcfg = {
+            lang: 'es-MX',
+            parsetags: 'onload'
+        };
+    </script>
+    <script src="https://apis.google.com/js/platform.js" async defer></script>
 </head>

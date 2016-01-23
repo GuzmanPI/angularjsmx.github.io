@@ -1,0 +1,43 @@
+---
+layout: default
+description: El blog de Angular México
+---
+
+<section class="hero-slider blog-slider" >
+    <ul class="slides">
+        <li class="video-header">
+
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 text-center">
+                        <h1 class="uppercase text-white" style="margin-top: 35px">
+                            BLOG
+                        </h1>
+                    </div>
+                </div>
+            </div>
+        </li>
+    </ul>
+</section>
+
+<section>
+    <div class="simple-row">
+        <div class="container">
+            <div class="row">
+                {% for post in site.posts %}
+                    <div class="col-md-4 col-blog-post-info">
+                        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+                        <h2>
+                            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+                                {{ post.title }}
+                            </a>
+                        </h2>
+                        <p>{{post.description}}</p>
+                        <p>Autor: <a href="http://twitter.com/{{post.author}}" target="_blank">@{{post.author}}</a></p>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+
+</section>

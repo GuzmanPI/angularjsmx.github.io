@@ -236,11 +236,13 @@ $(window).load(function() { //variant-remove
 
 	"use strict";
 
-    var navHeight = $('nav').outerHeight();
-    $('.inner-link').smoothScroll({
-        offset: -navHeight,
-        speed: 800
-    });
+    if( window.location.pathname == '/') {
+        var navHeight = $('nav').outerHeight();
+        $('.inner-link').smoothScroll({
+            offset: -navHeight,
+            speed: 800
+        });
+    }
 
     /************** Parallax Scripts **************/
 
