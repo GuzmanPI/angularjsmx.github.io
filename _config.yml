@@ -3,7 +3,7 @@ title: AngularJS México
 email: josue.ggh@gmail.com
 description: "Angular México te trae las Meetups, Workshops y trainings en el DF y resto del país."
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://angularjsmexico.com" # the base hostname & protocol for your site
+url: "http://angularmexico.com" # the base hostname & protocol for your site
 twitter_username: angularjsmexico
 github_username:  blacknash
 
