@@ -11,7 +11,7 @@ layout: default
             <h1 class="uppercase text-white" style="margin-top: 40px">
               {{ page.title }}
             </h1>
-            <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • @{{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+            <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • Por <a href="http://twitter.com/{{ page.author }}" target="_blank">@{{ page.author }}</a>{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
           </div>
         </div>
       </div>

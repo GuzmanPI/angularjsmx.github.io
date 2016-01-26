@@ -780,8 +780,16 @@ nav .container {
 .blog-slider{
   background: rgb(31, 137, 185);
 }
+.workshop-slide .slides li{
+  height:350px;
+}
 .blog-slider .slides li{
   height:200px;
+}
+.workshop-slide h1{
+  font-size: 50px;
+  font-weight: bold;
+  color: white;
 }
 .hero-slider .slides li:before {
   background-color: #333333;
@@ -2433,4 +2441,154 @@ section.instagram{
   text-decoration: none;
   font-weight: none;
   border:none;
+}
+.post-meta a{
+  border:none;
+  color: #f6f625 !important;
+}
+section.workshop-info.none {
+  padding-top: 0px;
+  padding: 0px;
+  width: 98.98%;
+}
+section.workshop-info{
+  padding-top: 30px;
+  padding-bottom: 0px;
+}
+.info-section-workshop{
+  background: #76a715;
+  font-size: 20px;
+  padding: 40px;
+  line-height: 30px;
+  color: white;
+  text-align: center;
+}
+.wokinfo-section-workshop{
+  background: #333;
+  font-size: 21px;
+  padding: 40px;
+  line-height: 30px;
+  color: #999;
+  text-align: center;
+}
+.wokinfo-section-workshop a{
+  color: #cfd95e;
+  font-weight: bold;
+}
+.workshop-detail .title{
+  padding: 20px;
+  background: #333;
+  color: white;
+  padding-bottom: 15px;
+  font-weight: bold;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+.workshop-detail .date{
+  padding-left: 20px;
+  font-size: 16px;
+  background: #03a9f4;
+  color: white;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.workshop-detail .price{
+  padding-left: 20px;
+  font-size: 25px;
+  background: #7cb159;
+  color: white;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.workshop-detail .places{
+  padding-left: 20px;
+  font-size: 25px;
+  background: #618d47;
+  color: white;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.howtopay{
+  font-size: 18px;
+  background: #eee;
+  padding: 20px 10px;
+}
+.howtopay p {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+.workshop-detail .charge{
+  padding: 10px;
+  font-size: 15px;
+  color: #666;
+  background: #eee;
+}
+.workshop-detail .charge .desc{
+  padding-top: 10px;
+}
+.howtopay p span{
+  color: #000;
+}
+.howtopay a{
+  color: #618d47 !important;
+  border:none;
+  font-weight: normal;
+}
+.workshop-detail .charge span,{
+  color: #57cefb;
+  font-style: none;
+}
+.workshop-detail .date a{
+  color: #fffe58;
+}
+
+.workshop-detail .content-workshop{
+  border:1px solid #eee;
+  padding: 10px;
+}
+.workshop-detail .section-theme{
+  margin-bottom: 20px;
+}
+.workshop-detail .howget{
+  background:#eee;
+  padding:4px
+}
+.workshop-detail .section-theme h3{
+  background: #ddd;
+  color: #555;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 15px;
+  text-align: center;
+}
+.nopadding {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+.workshop-detail .section-theme li{
+  border:1px solid #ddd;
+  border-top:none;
+  color: #888;
+  background: #fafafa;
+  padding-left: 10px;
+}
+.workshop-detail .section-theme li:nth-child(odd){
+  background:#fff;
+}
+.content-workshop p{
+  text-transform: uppercase;
+}
+.overlay2 {
+  background:none;
+  position:absolute;
+  width:100%;
+  height:190px; /* your iframe height */
+  top:0px;  /* your iframe height */
+  /*margin-top:-480px;  !* your iframe height *!*/
 }
