@@ -2540,6 +2540,9 @@ section.workshop-info{
   border:none;
   font-weight: normal;
 }
+.workshop-detail{
+  margin-bottom: 30px;
+}
 .workshop-detail .charge span,{
   color: #57cefb;
   font-style: none;
