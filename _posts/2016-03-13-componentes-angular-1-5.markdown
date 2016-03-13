@@ -5,7 +5,7 @@ title: "Método .component() en Angular 1.5"
 date:   2016-03-13 02:18:00
 categories: [angular, component, post]
 author: eusoj
-description: Este año buscamos generar más contenido a través de nuestro blog colaborativo.
+description: Un vistazo rápio al .component de Angular desde la versión 1.5
 ---
 
 Desde el último release estable de Angular(1.5.0), se introdujo el método de **.component()**, el cuál nos permite simplificar la manera en que creamos directivas y que en cierta manera nos permite escribir código pensando en la versión de Angular 2.
