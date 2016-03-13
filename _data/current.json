@@ -1,31 +1,39 @@
 [
   {
-    "date":"Enero  16",
-    "full_date" : "16 de Enero, 2016",
-    "history" : "Enero 2016",
-    "hour" : "10:00",
+    "date":"Marzo  16",
+    "full_date" : "16 de Marzo, 2016",
+    "history" : "Marzo 2016",
+    "hour" : "19:00",
     "icon" : "blue_cdmx.png",
-    "tickets": "http://www.meetup.com/es-ES/AngularJS-Mexico/events/227866069/",
-    "address": "Centraal, Zamora 187. Condesa México DF C.P 06140",
-    "map" : "https://goo.gl/maps/VrCJj",
+    "tickets": "http://www.meetup.com/angularmexico/events/228873601/",
+    "address": "Globant, Insurgentes Sur 859 Piso 15, Col. Nápoles",
+    "map" : "https://goo.gl/maps/pCqpDo6faVS2",
     "location" : "Ciudad de México",
     "location_min" : "CDMX",
-    "meetup" : "14º",
+    "meetup" : "16º",
     "speakers" : [
       {
-        "twitter" : "gerardx2",
-        "name" : "Gerardo Alvarez",
-        "speak": "Angular en la vida real: Laudrive",
+        "twitter" : "chino_che",
+        "name" : "Mario Rivas Bonilla",
+        "speak": "AngularJS y JSON Web Tokens ",
+        "description" : "Angular y JSON Web Tokens "
+      },
+      {
+        "twitter" : "checoipn",
+        "name" : "Sergio Alcalá",
+        "speak": "Promesas en AngularJS",
+        "description" : "Promesas en Angular"
+      },
+      {
+        "twitter" : "eusoj",
+        "name" : "Josué G",
+        "speak": "ng-perf",
+        "description" : "Performance en Angular"
       },
       {
         "twitter" : "israelgp4",
         "name" : "Israel Guzmán",
-        "speak": "Typescript y Angular 2",
-      },
-      {
-        "twitter" : "julienrenaux",
-        "name" : "Julien Renaux",
-        "speak": "Cross platforms apps with Ionic Framework",
+        "speak": "Angular 2",
       }
     ]
   }

@@ -2550,7 +2550,16 @@ section.workshop-info{
 .workshop-detail .date a{
   color: #fffe58;
 }
-
+.workshop-detail .links{
+  background: #ddd;
+  padding:10px;
+}
+.workshop-detail .links a{
+  font-weight: bold;
+  text-transform: uppercase;
+  padding-left: 10px;
+  color: #444;
+}
 .workshop-detail .content-workshop{
   border:1px solid #eee;
   padding: 10px;
