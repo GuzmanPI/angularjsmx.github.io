@@ -2619,9 +2619,9 @@ section.workshop-info{
   border:1px solid #ddd;
 }
 
-.highlight pre { background-color: #404040 }
+.highlight pre { background-color: #404040;color:#aaa; }
 .highlight .hll { background-color: #404040 }
-.highlight .c { color: #999999; font-style: italic } /* Comment */
+.highlight .c { color: #777; font-style: italic } /* Comment */
 .highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
 .highlight .g { color: #d0d0d0 } /* Generic */
 .highlight .k { color: #6ab825; font-weight: bold } /* Keyword */
