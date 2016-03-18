@@ -71,4 +71,4 @@ En Angular 2, cualquier componente puede importar y utilizar otro componente.
 
 Los componentes de Angular 2 encapsulan un template en HTML y su lógica en una clase de JavaScript.
 
-En mi próximo blog explicareé como crear instalar y crear un proyecto de Angular 2.
+En el próximo post explicareé como crear instalar y crear un proyecto de Angular 2.
