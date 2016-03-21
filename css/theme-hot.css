@@ -2426,6 +2426,10 @@ section.instagram{
 }
 .post-content{
   padding-top: 20px;
+  padding-bottom: 0px;
+}
+#comment-section{
+  padding: 0px;
 }
 .categories-post{
   text-transform: uppercase;
