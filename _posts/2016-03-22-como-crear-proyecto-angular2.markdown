@@ -190,7 +190,7 @@ Para correr la aplicación:
 
 2. Iniciamos nuestra aplicacion con el comando **npm start**
 
-En mi próximo blog veremos funcionalidad del del core de Angular 2.
+En el próximo post veremos funcionalidad del del core de Angular 2.
 
 
 
